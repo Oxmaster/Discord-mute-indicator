@@ -4,9 +4,9 @@
 
 This project uses HID emulation that ATMega 32u4 supports. It reads the status of the keyboard LEDs (Caps, Scroll or Num lock) and displays an image representing status of the microphone.
 
-By default the display will turn off after 15 minutes of inactivity, you can change that time, or disable the feature altogether by going into [config.h](config.h). You can also change some other settings in there.
+By default the display will turn off after 15 minutes of inactivity, you can change that time, or disable the feature altogether by going into [config.h](DiscordMuteIndicator/config.h). You can also change some other settings in there.
 
-If you want to change the images, you can go to [images.h](images.h), in there you will find a short information about how to make your own image byte arrays.
+If you want to change the images, you can go to [images.h](DiscordMuteIndicator/images.h), in there you will find a short information about how to make your own image byte arrays.
 
 ## Demonstration video
 
