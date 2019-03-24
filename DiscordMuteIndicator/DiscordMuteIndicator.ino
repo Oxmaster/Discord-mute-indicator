@@ -124,7 +124,7 @@ bool autoDisable(){
 		}
 		
 		// if display is OFF AND there was no change to state of triggerLed
-		if (displayStatus == 1){
+		if (displayStatus == 0){
 			return 1;
 		}
 		
