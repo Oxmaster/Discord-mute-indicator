@@ -8,6 +8,12 @@ By default the display will turn off after 15 minutes of inactivity, you can cha
 
 If you want to change the images, you can go to [images.h](DiscordMuteIndicator/images.h), in there you will find a short information about how to make your own image byte arrays.
 
+## Update after 8 months of use
+
+I've noticed a slight burn-in of the OLED display:
+![Burn-in](https://i.imgur.com/culptsc.png)
+It might be a good idea to randomize the location of the icon on every startup.
+
 ## Demonstration video
 
 [Streamable](https://streamable.com/tyxeh)
