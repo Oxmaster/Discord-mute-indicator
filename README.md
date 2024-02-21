@@ -35,7 +35,6 @@ Libraries
 
 ## Contact
 - [Twitter](https://twitter.com/Oxmstr)
-- [E-Mail](mailto:paul.oleszczyk@gmail.com)
 
 ## Version history
 ```
